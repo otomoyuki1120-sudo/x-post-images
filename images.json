@@ -404,5 +404,33 @@
     "app": "matomemo-app",
     "kind": "実機/Simulatorスクショ",
     "description": "保存した会議メモを検索するアーカイブ画面"
+  },
+  {
+    "file": "images/yukitaro-card-6a97fc9e38c8afd44752318a.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/yukitaro-card-6a97fc9e38c8afd44752318a.png",
+    "app": "yukitaro-3pillars",
+    "kind": "引用カード",
+    "description": "きままきっぷ投稿用の引用カード(Buffer post 6a97fc9e38c8afd44752318a)"
+  },
+  {
+    "file": "images/yukitaro-card-6a97fc9fd8202176c7186493.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/yukitaro-card-6a97fc9fd8202176c7186493.png",
+    "app": "yukitaro-3pillars",
+    "kind": "引用カード",
+    "description": "きままきっぷ投稿用の引用カード(Buffer post 6a97fc9fd8202176c7186493)"
+  },
+  {
+    "file": "images/yukitaro-card-6a97fc9fbf09effda99fcb2f.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/yukitaro-card-6a97fc9fbf09effda99fcb2f.png",
+    "app": "yukitaro-3pillars",
+    "kind": "引用カード",
+    "description": "きままきっぷ投稿用の引用カード(Buffer post 6a97fc9fbf09effda99fcb2f)"
+  },
+  {
+    "file": "images/yukitaro-card-6a97fca0b4636859c7c40733.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/yukitaro-card-6a97fca0b4636859c7c40733.png",
+    "app": "yukitaro-3pillars",
+    "kind": "引用カード",
+    "description": "きままきっぷ投稿用の引用カード(Buffer post 6a97fca0b4636859c7c40733)"
   }
 ]
