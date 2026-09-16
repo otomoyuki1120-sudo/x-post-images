@@ -432,5 +432,271 @@
     "app": "yukitaro-3pillars",
     "kind": "引用カード",
     "description": "きままきっぷ投稿用の引用カード(Buffer post 6a97fca0b4636859c7c40733)"
+  },
+  {
+    "file": "images/daily-book-app-step2-today-pick-20250825-rerun.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/daily-book-app-step2-today-pick-20250825-rerun.png",
+    "app": "daily-book-app",
+    "kind": "実機スクショ",
+    "description": "今日の1冊の推薦画面（2025-08-25再実行）"
+  },
+  {
+    "file": "images/kippu-s1-initial.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/kippu-s1-initial.png",
+    "app": "kippu",
+    "kind": "実機/Simulatorスクショ",
+    "description": "きっぷ売り場の初期画面"
+  },
+  {
+    "file": "images/kippu-s1-kippuuriba-mihon.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/kippu-s1-kippuuriba-mihon.png",
+    "app": "kippu",
+    "kind": "実機/Simulatorスクショ",
+    "description": "きっぷ売り場の初期モック画面"
+  },
+  {
+    "file": "images/kippu-s2-map.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/kippu-s2-map.png",
+    "app": "kippu",
+    "kind": "実機/Simulatorスクショ",
+    "description": "発券後の本日のきっぷ画面"
+  },
+  {
+    "file": "images/kippu-appstoreconnect-build-uploaded-20260903.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/kippu-appstoreconnect-build-uploaded-20260903.png",
+    "app": "kippu",
+    "kind": "スクリーンショット",
+    "description": "Xcode Organizerでアップロード済みのアーカイブ一覧"
+  },
+  {
+    "file": "images/kippu-appstoreconnect-overview-keywords-20260903.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/kippu-appstoreconnect-overview-keywords-20260903.png",
+    "app": "kippu",
+    "kind": "スクリーンショット",
+    "description": "App Store Connectのキーワード入力画面"
+  },
+  {
+    "file": "images/kippu-appstoreconnect-promo-text-20260903.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/kippu-appstoreconnect-promo-text-20260903.png",
+    "app": "kippu",
+    "kind": "スクリーンショット",
+    "description": "App Store Connectのプロモーション用テキスト入力画面"
+  },
+  {
+    "file": "images/kippu-cat-app-icon-title.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/kippu-cat-app-icon-title.png",
+    "app": "kippu",
+    "kind": "実機/Simulatorスクショ",
+    "description": "きままきっぷのアプリアイコン"
+  },
+  {
+    "file": "images/kippu-cat-badge-paw-only-real-device.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/kippu-cat-badge-paw-only-real-device.png",
+    "app": "kippu",
+    "kind": "実機/Simulatorスクショ",
+    "description": "肉球バッジを反映したきっぷ売り場画面"
+  },
+  {
+    "file": "images/kippu-cat-clerk-reposition-real-device.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/kippu-cat-clerk-reposition-real-device.png",
+    "app": "kippu",
+    "kind": "実機/Simulatorスクショ",
+    "description": "猫の駅員デザインを反映したきっぷ売り場画面"
+  },
+  {
+    "file": "images/kippu-cat-station-clerk.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/kippu-cat-station-clerk.png",
+    "app": "kippu",
+    "kind": "素材",
+    "description": "猫の駅員イラスト"
+  },
+  {
+    "file": "images/kippu-cute-cat-badges-real-device.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/kippu-cute-cat-badges-real-device.png",
+    "app": "kippu",
+    "kind": "実機/Simulatorスクショ",
+    "description": "猫バッジを反映したきっぷ売り場画面"
+  },
+  {
+    "file": "images/kippu-destination-preview-nonbiri.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/kippu-destination-preview-nonbiri.png",
+    "app": "kippu",
+    "kind": "実機/Simulatorスクショ",
+    "description": "のんびり向け発券結果プレビュー"
+  },
+  {
+    "file": "images/kippu-github-pages-privacy-20260903.jpg",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/kippu-github-pages-privacy-20260903.jpg",
+    "app": "kippu",
+    "kind": "スクリーンショット",
+    "description": "公開プライバシーポリシー画面"
+  },
+  {
+    "file": "images/kippu-result-navigation-background-fixed.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/kippu-result-navigation-background-fixed.png",
+    "app": "kippu",
+    "kind": "実機/Simulatorスクショ",
+    "description": "発券後の近くで探す画面"
+  },
+  {
+    "file": "images/kippu-share-sheet-fixed.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/kippu-share-sheet-fixed.png",
+    "app": "kippu",
+    "kind": "実機/Simulatorスクショ",
+    "description": "発券結果の共有シート"
+  },
+  {
+    "file": "images/kippu-stampbook-selection-delete-simulator-20260909.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/kippu-stampbook-selection-delete-simulator-20260909.png",
+    "app": "kippu",
+    "kind": "実機/Simulatorスクショ",
+    "description": "スタンプ帳の削除選択モード"
+  },
+  {
+    "file": "images/kippu-stampbook-settings-top-eaves-fixed.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/kippu-stampbook-settings-top-eaves-fixed.png",
+    "app": "kippu",
+    "kind": "実機/Simulatorスクショ",
+    "description": "スタンプ帳の設定上部表示"
+  },
+  {
+    "file": "images/kippu-ticket-emerging-frame.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/kippu-ticket-emerging-frame.png",
+    "app": "kippu",
+    "kind": "実機/Simulatorスクショ",
+    "description": "切符が出てくる途中の発券画面"
+  },
+  {
+    "file": "images/kippu-ticket-inserting-slot-frame.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/kippu-ticket-inserting-slot-frame.png",
+    "app": "kippu",
+    "kind": "実機/Simulatorスクショ",
+    "description": "発券口へ切符が入る途中の画面"
+  },
+  {
+    "file": "images/kippu-ump-retry-button-build6-real-device-20260912.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/kippu-ump-retry-button-build6-real-device-20260912.png",
+    "app": "kippu",
+    "kind": "実機/Simulatorスクショ",
+    "description": "広告再試行を追加した設定画面"
+  },
+  {
+    "file": "images/matomemo-s3-audio-fix.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/matomemo-s3-audio-fix.png",
+    "app": "matomemo-app",
+    "kind": "実機/Simulatorスクショ",
+    "description": "AI要約画面（音声再生修正版）"
+  },
+  {
+    "file": "images/card-akebono-2026-08-30-edf4e9.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/card-akebono-2026-08-30-edf4e9.png",
+    "app": "card",
+    "kind": "引用カード",
+    "description": "前回の値を起点にして、毎朝の入力を少し回すだけにする"
+  },
+  {
+    "file": "images/card-akebono-base-cdfebc.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/card-akebono-base-cdfebc.png",
+    "app": "card",
+    "kind": "引用カード",
+    "description": "予測よりも記録を続けられる形にする"
+  },
+  {
+    "file": "images/card-dailybook-base-135e31.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/card-dailybook-base-135e31.png",
+    "app": "card",
+    "kind": "引用カード",
+    "description": "読了・積読・感想の置き場所をまとめて読書を続ける"
+  },
+  {
+    "file": "images/card-dailybook-base-811df6.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/card-dailybook-base-811df6.png",
+    "app": "card",
+    "kind": "引用カード",
+    "description": "選択肢を増やさず、毎朝1冊だけすすめる"
+  },
+  {
+    "file": "images/card-garapon-2026-08-30-0bf76b.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/card-garapon-2026-08-30-0bf76b.png",
+    "app": "card",
+    "kind": "引用カード",
+    "description": "玉の色で気分に合わせて同じ街の見え方を変える"
+  },
+  {
+    "file": "images/card-garapon-2026-08-30-188931.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/card-garapon-2026-08-30-188931.png",
+    "app": "card",
+    "kind": "引用カード",
+    "description": "完成画像を先に渡し、実装は配線に集中する"
+  },
+  {
+    "file": "images/card-garapon-2026-08-30-1f9582.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/card-garapon-2026-08-30-1f9582.png",
+    "app": "card",
+    "kind": "引用カード",
+    "description": "アイコンが出ないミスを繰り返さないために確認する"
+  },
+  {
+    "file": "images/card-garapon-base-109067.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/card-garapon-base-109067.png",
+    "app": "card",
+    "kind": "引用カード",
+    "description": "食事を決める代わりに、ガラポンで引く"
+  },
+  {
+    "file": "images/card-kippu-2026-09-03-2cec95.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/card-kippu-2026-09-03-2cec95.png",
+    "app": "card",
+    "kind": "引用カード",
+    "description": "装飾を画面ごとではなくテーマごとに決める"
+  },
+  {
+    "file": "images/card-kippu-2026-09-03-56be09.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/card-kippu-2026-09-03-56be09.png",
+    "app": "card",
+    "kind": "引用カード",
+    "description": "猫の駅員と肉球で開いたあとも同じ世界を続ける"
+  },
+  {
+    "file": "images/card-kippu-2026-09-03-ce6a0b.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/card-kippu-2026-09-03-ce6a0b.png",
+    "app": "card",
+    "kind": "引用カード",
+    "description": "切符売り場の世界観に猫の駅員を案内役として加える"
+  },
+  {
+    "file": "images/card-kippu-base-2714a0.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/card-kippu-base-2714a0.png",
+    "app": "card",
+    "kind": "引用カード",
+    "description": "行き先を決める会話を終わらせるために一枚を出す"
+  },
+  {
+    "file": "images/card-kippu-base-6c65a6.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/card-kippu-base-6c65a6.png",
+    "app": "card",
+    "kind": "引用カード",
+    "description": "遠出ではなく30分圏のおでかけを提案する"
+  },
+  {
+    "file": "images/card-kippu-base-aa9b7a.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/card-kippu-base-aa9b7a.png",
+    "app": "card",
+    "kind": "引用カード",
+    "description": "調べる気力がない日向けに1〜2時間のおでかけを提案する"
+  },
+  {
+    "file": "images/card-kippu-base-ff16e4.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/card-kippu-base-ff16e4.png",
+    "app": "card",
+    "kind": "引用カード",
+    "description": "一覧で選ばせず、行き先を切符で一枚だけ渡す"
+  },
+  {
+    "file": "images/card-matomemo-2026-09-03-b4f4ad.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/card-matomemo-2026-09-03-b4f4ad.png",
+    "app": "card",
+    "kind": "引用カード",
+    "description": "要約が出ないときは端末設定を確認し、再試行する"
   }
 ]
