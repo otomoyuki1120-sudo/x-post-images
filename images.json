@@ -698,5 +698,47 @@
     "app": "card",
     "kind": "引用カード",
     "description": "要約が出ないときは端末設定を確認し、再試行する"
+  },
+  {
+    "file": "images/menkyo-s1.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/menkyo-s1.png",
+    "app": "menkyo-app",
+    "kind": "Simulatorスクショ",
+    "description": "仮免ホーム画面"
+  },
+  {
+    "file": "images/menkyo-s4.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/menkyo-s4.png",
+    "app": "menkyo-app",
+    "kind": "Simulatorスクショ",
+    "description": "問題の正誤表示画面"
+  },
+  {
+    "file": "images/menkyo-s1-honmen.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/menkyo-s1-honmen.png",
+    "app": "menkyo-app",
+    "kind": "Simulatorスクショ",
+    "description": "本免ホーム画面"
+  },
+  {
+    "file": "images/menkyo-s9-honmen.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/menkyo-s9-honmen.png",
+    "app": "menkyo-app",
+    "kind": "Simulatorスクショ",
+    "description": "本免の学習記録画面"
+  },
+  {
+    "file": "images/menkyo-s6i-scene-01.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/menkyo-s6i-scene-01.png",
+    "app": "menkyo-app",
+    "kind": "Simulatorスクショ",
+    "description": "本免の場面問題画面1"
+  },
+  {
+    "file": "images/menkyo-s6i-scene-02.png",
+    "raw_url": "https://raw.githubusercontent.com/otomoyuki1120-sudo/x-post-images/main/images/menkyo-s6i-scene-02.png",
+    "app": "menkyo-app",
+    "kind": "Simulatorスクショ",
+    "description": "本免の場面問題画面2"
   }
 ]
